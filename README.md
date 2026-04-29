@@ -1,3 +1,7 @@
+<!--
+陕西干部网络学院, 陕西干教网, 陕教网挂课脚本, sxgbnxy, snpx, sqgj.gov.cn
+-->
+
 # Study-Plus-Navigator
 
 本项目是一个基于 JavaScript 的自动化技术研究工具，旨在探索 Web 页面 DOM 状态监测与交互逻辑的实现方案。
